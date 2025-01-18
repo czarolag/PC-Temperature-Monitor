@@ -74,6 +74,8 @@ This project leverages the Adafruit Feather HUZZAH ESP8266 and an ST7996 TFT dis
 2. Start Core-Temp to begin sending updates on port number
 3. Monitor real-time temperature data on the ST7996 display.
 
+<img src="temp_monitor_example.jpeg" alt="Sample Image" width="500" height="400">
+
 ---
 
 ## Contributing
